@@ -379,7 +379,7 @@ The skill improves when patterns fail in the real world. Open a PR if:
 
 ## License
 
-MIT © 2025 [Ayush Shrivastava](https://github.com/ayush016)
+MIT © 2025 [Ayush Shrivastava](https://github.com/ayush016) [KARIKALCHOLAN](https://github.com/karikalcholan)
 
 See [LICENSE](LICENSE) for full terms. TL;DR: use it, fork it, build on it — attribution appreciated but not required.
 
